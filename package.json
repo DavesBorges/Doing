@@ -1,0 +1,12 @@
+{
+  "name": "doing",
+  "version": "0.0.1",
+  "description": "A productivity software to help you implement the Getting Things Done Methodology",
+  "main": "index.js",
+  "author": "DavesBorges",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+	  "./packages/*"
+  ]
+}
